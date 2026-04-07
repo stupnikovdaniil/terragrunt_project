@@ -1,0 +1,29 @@
+# Terraform / Terragrunt
+**/.terraform/*
+**/.terragrunt-cache/*
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Secrets / certs
+*.pem
+*.key
+*.crt
+*.p12
+*.jks
+*.kubeconfig
+*.enc
+*.age
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Rendered / generated
+rendered/

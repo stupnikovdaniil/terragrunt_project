@@ -1,0 +1,5 @@
+target_node: "pve"
+template_name: "ubuntu-cloudinit-template"
+vm_cores: 4
+vm_memory: 8096
+vm_disk_size: "15G"

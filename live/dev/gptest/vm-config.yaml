@@ -1,0 +1,5 @@
+target_node: "pve"
+template_name: "alma8-cloud"
+vm_cores: 2
+vm_memory: 4000
+vm_disk_size: "15G"
